@@ -1,0 +1,2 @@
+Hello It's my first code
+I'm learning to use git
